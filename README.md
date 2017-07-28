@@ -1,5 +1,5 @@
 # 驰游获取游戏key
-	![image](https://raw.githubusercontent.com/Kaxyubok/img-folder/master/20170716134138.png)
+![image](https://raw.githubusercontent.com/Kaxyubok/img-folder/master/20170716134138.png)
 	·一键刮key
 	·一键兑换点数
 	·一键复制key(普通格式)
