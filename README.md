@@ -10,4 +10,4 @@
 
 * 一键复制key(ASF格式)
 
-Tampermonkey地址:https://greasyfork.org/zh-CN/scripts/31280-ccyycn-get-keys
+Tampermonkey地址:  https://greasyfork.org/zh-CN/scripts/31280-ccyycn-get-keys
